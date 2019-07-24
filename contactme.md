@@ -4,4 +4,4 @@ title: Contact
 subtitle: Contact
 ---
 
-Email here. 
+Email: ejgraham3 AT wisc DOT edu 
