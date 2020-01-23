@@ -3,8 +3,13 @@ layout: page
 title: Publications
 subtitle: 
 ---
+### Preprints
+
+[**Graham, E.J.**, Richmond, P.A., Tarailo-Graovac, M., Engelke, U., Kluijtmans, A.J., Coene, K.L.M., Wevers,R.A., Wasserman, W.W., van Karnebeek, C.D.M., Mostafavi, S. "metPropagate: network-guided propagation of metabolomic information for prioritization of neurometabolic disease genes." *Submitted*. 2019 Dec.](https://www.medrxiv.org/content/10.1101/2020.01.12.20016691v1)
 
 ### Articles
+
+[**Graham, E.**, Vermeulen, M., Vardarajan, B., Bennett, D., De Jager, P., Pearse, R., Young-Pearse, T.L., Mostafavi, S. "Somatic mosaicism of sex chromosomes in the blood and brain." *Brain Research*. 2019 Oct.](https://pubmed.ncbi.nlm.nih.gov/31348909-somatic-mosaicism-of-sex-chromosomes-in-the-blood-and-brain/)
 
 [**Graham, E.**, Lee, J., Price, M., Tarailo-Graovac, M., Matthews, A., Engelke, Udo., Tang, J., Kluijtmans L., Wevers, Ron., Wasserman, W., van Karnebeek, C.D.M., Mostafavi, S. “Integration of genomics and metabolomics for prioritization of rare disease variants: A 2018 literature review.” *Journal of Inherited Metabolic Disease*. 2018 April.](https://www.ncbi.nlm.nih.gov/pubmed/29721916)
 
