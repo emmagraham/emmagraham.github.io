@@ -1,6 +1,6 @@
 ---
 title: "Emma's R Bootcamp"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
