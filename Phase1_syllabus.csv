@@ -1,11 +1,12 @@
 ﻿Lesson Title,More practice,Practice answers,Due date
-Introduction to R Syntax,[HW1](https://emmagraham.github.io/HW/HW1_questions.md),Link coming soon!,June 1st
-Learn R: Data Frames,Link coming soon!,Link coming soon!,June 1st
-Data Cleaning,Link coming soon!,Link coming soon!,June 1st
-Data Visualization with ggplot2,Link coming soon!,Link coming soon!,June 1st
-Aggregates,Link coming soon!,Link coming soon!,June 1st
-Joining Tables,Link coming soon!,Link coming soon!,June 1st
-"Mean, Median and Mode",Link coming soon!,Link coming soon!,June 1st
-Variance and Standard Deviation,Link coming soon!,Link coming soon!,June 1st
-"Quartiles, Quantiles and IQR",Link coming soon!,Link coming soon!,June 1st
-Hypothesis testing,Link coming soon!,Link coming soon!,June 1st
+Introduction to R Syntax,,,June 1st
+Learn R: Data Frames,,,June 1st
+Data Cleaning,,,June 1st
+Data Visualization with ggplot2,,,June 1st
+[Logical operators from DataCamp](https://campus.datacamp.com/courses/effective-data-storytelling-using-the-tidyverse/filtering-grouping-summarizing?ex=2),"[HW1](https://emmagraham.github.io/HW/HW1_questions.md), [HW2](https://emmagraham.github.io/HW/HW2.md)","[HW1 answers](https://github.com/emmagraham/RBootcamp_answers/blob/master/HW1_answers.md), [HW2 answers](https://github.com/emmagraham/RBootcamp_answers/blob/master/HW2_answers.md)",June 1st
+Aggregates,[HW3](https://emmagraham.github.io/HW/HW3_questions.md),[HW3 answers](https://github.com/emmagraham/RBootcamp_answers/blob/master/HW3_answers.md),June 1st
+Joining Tables,HW4,Link coming soon!,June 1st
+"Mean, Median and Mode",,,June 1st
+Variance and Standard Deviation,,,June 1st
+"Quartiles, Quantiles and IQR",,,June 1st
+Hypothesis testing,HW5,Link coming soon!,June 1st

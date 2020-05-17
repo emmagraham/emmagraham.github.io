@@ -1,10 +1,6 @@
----
-layout: page
-title: R Bootcamp
-subtitle:  
----
+Welcome to bootcamp!
+--------------------
 
-##Welcome to bootcamp! 
 This bootcamp was originally desgined for my MD/PhD cohort at
 UW-Madison. However, anyone can follow along! This curriculum is
 designed for individuals new to both R and coding in general. NO PRIOR
@@ -70,61 +66,67 @@ questions, just make a comment in the Google Collab document and tag me.
 <tbody>
 <tr class="odd">
 <td align="left">Introduction to R Syntax</td>
-<td align="left"><a href="https://emmagraham.github.io/HW/HW1_questions.md">HW1</a></td>
-<td align="left">Link coming soon!</td>
+<td align="left"></td>
+<td align="left"></td>
 <td align="left">June 1st</td>
 </tr>
 <tr class="even">
 <td align="left">Learn R: Data Frames</td>
-<td align="left">Link coming soon!</td>
-<td align="left">Link coming soon!</td>
+<td align="left"></td>
+<td align="left"></td>
 <td align="left">June 1st</td>
 </tr>
 <tr class="odd">
 <td align="left">Data Cleaning</td>
-<td align="left">Link coming soon!</td>
-<td align="left">Link coming soon!</td>
+<td align="left"></td>
+<td align="left"></td>
 <td align="left">June 1st</td>
 </tr>
 <tr class="even">
 <td align="left">Data Visualization with ggplot2</td>
-<td align="left">Link coming soon!</td>
-<td align="left">Link coming soon!</td>
+<td align="left"></td>
+<td align="left"></td>
 <td align="left">June 1st</td>
 </tr>
 <tr class="odd">
+<td align="left"><a href="https://campus.datacamp.com/courses/effective-data-storytelling-using-the-tidyverse/filtering-grouping-summarizing?ex=2">Logical operators from DataCamp</a></td>
+<td align="left"><a href="https://emmagraham.github.io/HW/HW1_questions.md">HW1</a>, <a href="https://emmagraham.github.io/HW/HW2.md">HW2</a></td>
+<td align="left"><a href="https://github.com/emmagraham/RBootcamp_answers/blob/master/HW1_answers.md">HW1 answers</a>, <a href="https://github.com/emmagraham/RBootcamp_answers/blob/master/HW2_answers.md">HW2 answers</a></td>
+<td align="left">June 1st</td>
+</tr>
+<tr class="even">
 <td align="left">Aggregates</td>
-<td align="left">Link coming soon!</td>
-<td align="left">Link coming soon!</td>
+<td align="left"><a href="https://emmagraham.github.io/HW/HW3_questions.md">HW3</a></td>
+<td align="left"><a href="https://github.com/emmagraham/RBootcamp_answers/blob/master/HW3_answers.md">HW3 answers</a></td>
 <td align="left">June 1st</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Joining Tables</td>
-<td align="left">Link coming soon!</td>
+<td align="left">HW4</td>
 <td align="left">Link coming soon!</td>
 <td align="left">June 1st</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Mean, Median and Mode</td>
-<td align="left">Link coming soon!</td>
-<td align="left">Link coming soon!</td>
-<td align="left">June 1st</td>
-</tr>
-<tr class="even">
-<td align="left">Variance and Standard Deviation</td>
-<td align="left">Link coming soon!</td>
-<td align="left">Link coming soon!</td>
+<td align="left"></td>
+<td align="left"></td>
 <td align="left">June 1st</td>
 </tr>
 <tr class="odd">
-<td align="left">Quartiles, Quantiles and IQR</td>
-<td align="left">Link coming soon!</td>
-<td align="left">Link coming soon!</td>
+<td align="left">Variance and Standard Deviation</td>
+<td align="left"></td>
+<td align="left"></td>
 <td align="left">June 1st</td>
 </tr>
 <tr class="even">
+<td align="left">Quartiles, Quantiles and IQR</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">June 1st</td>
+</tr>
+<tr class="odd">
 <td align="left">Hypothesis testing</td>
-<td align="left">Link coming soon!</td>
+<td align="left">HW5</td>
 <td align="left">Link coming soon!</td>
 <td align="left">June 1st</td>
 </tr>
