@@ -1,6 +1,6 @@
 ---
 layout: page
-title: R bootcamp
+title: R Bootcamp
 subtitle: 
 ---
 
