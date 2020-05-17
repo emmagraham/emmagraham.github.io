@@ -1,3 +1,9 @@
+---
+layout: page
+title: R bootcamp
+subtitle: 
+---
+
 Welcome to bootcamp!
 --------------------
 
