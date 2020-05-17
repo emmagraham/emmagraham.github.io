@@ -4,9 +4,6 @@ title: R Bootcamp
 subtitle: 
 ---
 
-#Welcome to bootcamp!
-
-
 This bootcamp was originally desgined for my MD/PhD cohort at
 UW-Madison. However, anyone can follow along! This curriculum is
 designed for individuals new to both R and coding in general. NO PRIOR
