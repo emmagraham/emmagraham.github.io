@@ -4,8 +4,8 @@ title: R bootcamp
 subtitle: 
 ---
 
-Welcome to bootcamp!
---------------------
+#Welcome to bootcamp!
+
 
 This bootcamp was originally desgined for my MD/PhD cohort at
 UW-Madison. However, anyone can follow along! This curriculum is
