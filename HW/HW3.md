@@ -1,8 +1,3 @@
----
-layout: page
-title: HW3
-subtitle:  
----
 
 **1. Load the tidyverse and gapminder packages. Using group\_by(),
 filter() and summarize(), create a table that identifies the countries

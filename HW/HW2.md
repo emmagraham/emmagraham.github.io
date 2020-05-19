@@ -1,8 +1,3 @@
----
-layout: page
-title: HW2
-subtitle:  
----
 
 **1. Load the gapminder and tidyverse packages. Is the gapminder dataset
 a data frame? Use the str() function to find out. What class of data is
