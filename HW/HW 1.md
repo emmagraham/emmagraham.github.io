@@ -1,3 +1,9 @@
+---
+layout: page
+title: HW 1
+subtitle:  
+---
+
 1.  Install and load the gapminder and ggplot2 packages. Take a look at
     the data using head(). Make a histogram of life expectancy across
     all countries using hist().
