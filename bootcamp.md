@@ -1,8 +1,5 @@
----
-layout: page
-title: R Bootcamp
-subtitle: 
----
+Welcome to bootcamp!
+--------------------
 
 This bootcamp was originally desgined for my MD/PhD cohort at
 UW-Madison. However, anyone can follow along! This curriculum is
@@ -93,13 +90,13 @@ questions, just make a comment in the Google Collab document and tag me.
 </tr>
 <tr class="odd">
 <td align="left"><a href="https://campus.datacamp.com/courses/effective-data-storytelling-using-the-tidyverse/filtering-grouping-summarizing?ex=2">Logical operators from DataCamp</a></td>
-<td align="left"><a href="https://emmagraham.github.io/HW/HW1_questions.md">HW1</a>, <a href="https://emmagraham.github.io/HW/HW2.md">HW2</a></td>
+<td align="left"><a href="https://emmagraham.github.io/HW/HW%201.md">HW1</a>, <a href="https://emmagraham.github.io/HW/HW%202.md">HW2</a></td>
 <td align="left"><a href="https://github.com/emmagraham/RBootcamp_answers/blob/master/HW1_answers.md">HW1 answers</a>, <a href="https://github.com/emmagraham/RBootcamp_answers/blob/master/HW2_answers.md">HW2 answers</a></td>
 <td align="left">June 1st</td>
 </tr>
 <tr class="even">
 <td align="left">Aggregates</td>
-<td align="left"><a href="https://emmagraham.github.io/HW/HW3_questions.md">HW3</a></td>
+<td align="left"><a href="https://emmagraham.github.io/HW/HW%203.md">HW3</a></td>
 <td align="left"><a href="https://github.com/emmagraham/RBootcamp_answers/blob/master/HW3_answers.md">HW3 answers</a></td>
 <td align="left">June 1st</td>
 </tr>
