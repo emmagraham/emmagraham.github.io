@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HW 3
+title: HW3
 subtitle:  
 ---
 
