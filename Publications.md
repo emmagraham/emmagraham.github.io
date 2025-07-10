@@ -7,6 +7,8 @@ subtitle:
 
 [**Graham Linck, E.**, Goligher, E., Semler, M., Churpek, M. "Towards Precision in Critical Care Research: Methods for Observational and Interventional Studies". *Critical Care Medicine*. 2024.](https://journals.lww.com/ccmjournal/abstract/2024/09000/toward_precision_in_critical_care_research_.11.aspx)
 
+[Buell, K., Spicer, A., Casey J., Seitz, K., Qian, E., **Graham Linck, E.**, Self, W., Rice T., Sinha P., Young P., Semler M., Churpek M. "Individualized Treatment Effects of Oxygen Targets in Mechanically Ventilated Critically Ill Adults". *JAMA*. 2024.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10951851/)
+
 [Afshar, M., **Graham Linck, E.**,  Spicer, A., Rotrosen, J., Salisbury-Afshar, E., Sinha, P., Semler, C., Churpek, M. “Machine Learning-Driven Analysis of Individualized Treatment Effects Comparing Buprenorphine and Naltrexone in Opioid Use Disorder Relapse Prevention”. Journal of Addiction Medicine. 2024.](https://journals-lww-com.ezproxy.library.wisc.edu/journaladdictionmedicine/fulltext/2024/09000/machine_learning_driven_analysis_of_individualized.9.aspx)  
 
 [Seitz, K., Spicer, A., Casey, J., Buell, K., Qian, E., **Graham Linck, E.**,..., Churpek, M., “Individualized treatment effects of bougie vs stylet for tracheal intubation in critical illness”. *American Journal of Respiratory and Critical Care Medicine*. 2023.](https://www-atsjournals-org.ezproxy.library.wisc.edu/doi/10.1164/rccm.202209-1799OC?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
