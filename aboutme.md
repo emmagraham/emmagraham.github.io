@@ -27,7 +27,7 @@ The efficacy of a particular therapy is typically summarized across the trial po
 
 #### Other research interests
 -	Combining observational and randomized trial data to improve individualized treatment effect models
--	Predicting individualized treatment effect models for time-to-event outcomes across cancer trials
+-	Predicting individualized treatment effects for time-to-event outcomes across cancer trials
 
 
 
