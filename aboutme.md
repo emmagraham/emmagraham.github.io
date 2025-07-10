@@ -1,19 +1,34 @@
 ---
 layout: page
-title: About me
+title: About
 subtitle:  
 ---
 
-I am an MD/PhD student at UW-Madison (entering class of 2019). 
+Emma is completing her MD/PhD at University of Wisconsin-Madison, where she works with Matthew Churpek in the ICU Data Science Lab. Her work focuses on how we can better target medical treatments to the right patients using tools from machine learning and causal inference. She completed her master’s degree in bioinformatics in 2018, working with Dr. Sara Mostafavi at the University of British Columbia. Her current projects use clinical data to predict personalized estimates of treatment response for therapies used to treat critical illness and malignancies.
 
 ### Education
 
-I completed my Bachelor's of Science at Yale University (class of '16), majoring in Molecular Biochemistry and Biophysics. I then moved to sunny Vancouver, Canada, to pursue a Master's in Bioinformatics at the University of British Columbia (UBC) in the lab of Dr. Sara Mostafavi.
+Yale University, Molecular Biochemistry and Biophysics, 2016
 
-### Research interests
+University of British Columbia, Master's in Bioinformatics, 2018
 
-Broadly, I am interested in developing methods that combine insights from multiple types of “omics” data, such as transcriptomics, proteomics, metabolomics, epigenomics, and clinical phenotyping, to better understand the interplay between genes, proteins, and metabolites, and how they contribute to disease. 
+UW-Madison, MD/PhD, 2019-
 
-### Major Projects
+### Projects
+#### Predicting individualized treatment effect in critical care trials
 
-During my master’s degree, I developed a method to prioritize genetic mutations causing neurometabolic diseases through the integration of genomic and metabolomic evidence. This approach was developed for use in the Treatable Intellectual Disability - Exome (TIDEX) project, a program that collected clinical phenotype, whole exome sequencing and metabolomic profiling data on patients with undiagnosed neurometabolic disorders at BC Children's Hospital. Since graduating from my Master's degree, I have also used the ROSMAP data to explore whether men undergo mosaic loss of the sex chromosomes chromosome in the blood and brain.
+The efficacy of a particular therapy is typically summarized across the trial population as an average treatment effect. However, averages may mask heterogeneity in treatment effect, with some individuals benefitting more than the average and some individuals benefiting less than the average. We have found that individualized treatment effect models developed in a single critical care trial are able to identify groups of individuals with varying treatment response, highlighting the potential of these models to inform treatment decisions, once validated. 
+
+- Seitz, Kevin., Spicer, A., Casey, J., Buell, K., Qian, E., Graham Linck, E., Churpek, Matt., et al. “Individualized treatment effects of bougie vs stylet for tracheal intubation in critical illness”. American Journal of Respiratory and Critical Care Medicine. 2023. 
+
+- Afshar, M., Graham Linck, E.,  Spicer, A., Rotrosen, J., Salisbury-Afshar, E., Sinha, P., Semler, C., Churpek, M. “Machine Learning-Driven Analysis of Individualized Treatment Effects Comparing Buprenorphine and Naltrexone in Opioid Use Disorder Relapse Prevention”. Journal of Addiction Medicine. 2024.  
+
+- Graham Linck, E., Goligher, E., Semler, M., Churpek, M. Towards Precision in Critical Care Research: Methods for Observational and Interventional Studies. Critical Care Medicine. 2024.
+
+#### Other research interests
+-	Combining observational and randomized trial data to improve individualized treatment effect models
+-	Predicting individualized treatment effect models for time-to-event outcomes across cancer trials
+
+
+
+
