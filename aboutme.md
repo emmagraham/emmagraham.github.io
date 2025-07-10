@@ -12,7 +12,7 @@ Yale University, Molecular Biochemistry and Biophysics, 2016
 
 University of British Columbia, Master's in Bioinformatics, 2018
 
-UW-Madison, MD/PhD, 2019-
+UW-Madison, MD/PhD, 2019-present
 
 ### Projects
 #### Predicting individualized treatment effect in critical care trials
@@ -23,7 +23,7 @@ The efficacy of a particular therapy is typically summarized across the trial po
 
 - Afshar, M., Graham Linck, E.,  Spicer, A., Rotrosen, J., Salisbury-Afshar, E., Sinha, P., Semler, C., Churpek, M. “Machine Learning-Driven Analysis of Individualized Treatment Effects Comparing Buprenorphine and Naltrexone in Opioid Use Disorder Relapse Prevention”. Journal of Addiction Medicine. 2024.  
 
-- Graham Linck, E., Goligher, E., Semler, M., Churpek, M. Towards Precision in Critical Care Research: Methods for Observational and Interventional Studies. Critical Care Medicine. 2024.
+- Graham Linck, E., Goligher, E., Semler, M., Churpek, M. "Towards Precision in Critical Care Research: Methods for Observational and Interventional Studies". Critical Care Medicine. 2024.
 
 #### Other research interests
 -	Combining observational and randomized trial data to improve individualized treatment effect models
